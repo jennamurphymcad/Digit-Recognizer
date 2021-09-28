@@ -16,17 +16,26 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- What: this project (Kaggle competition) utilizes the MNIST ("Modified National Institute of Standards and Technology") dataset which is the de facto “hello world” dataset of computer vision. Since its release in 1999, this classic dataset of handwritten images has served as the basis for benchmarking classification algorithms.
+- Goal: correctly identify digits from a dataset of tens of thousands of handwritten images.
+- Purpose: Test different machine learning models in a computer vision problem.
 
 
-## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+## Dataset
+- Python 3 with Jupyter Notebook
+- scikit-learn, pandas, matplotlib
+
+## Initial Approach and Results
+- Python 3 with Jupyter Notebook
+- scikit-learn, pandas, matplotlib
+
+## Model selection and tuning
+- Python 3 with Jupyter Notebook
+- scikit-learn, pandas, matplotlib
+
+## Feature engineering and reduction
+- Python 3 with Jupyter Notebook
+- scikit-learn, pandas, matplotlib
 
 
 ## Features
